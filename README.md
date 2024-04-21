@@ -1,5 +1,5 @@
 # I Identify as a Rocket
-*This is my first time making a github fork, please tell me if there's anything I can add.
+*This is my first time making a github repository, please tell me if there's anything I can add.
 ![image](https://github.com/Nardeem/I-identify-as-a-rocket/assets/128815377/f75f348c-f3fa-4528-8e48-0f92000a9afd)
 ## This is a minecraft command kit. Anything using 4 blocks (as a main) will have an EZ Setup that you just right click.
 
